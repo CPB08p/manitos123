@@ -1,0 +1,103 @@
+[13Jan2026 00:18:20.360] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[13Jan2026 00:18:20.362] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04
+[13Jan2026 00:18:20.363] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.9 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[13Jan2026 00:18:20.440] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/manitos123/servidor_minecraft/config/fml.toml is not correct. Correcting
+[13Jan2026 00:18:20.442] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[13Jan2026 00:18:20.443] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[13Jan2026 00:18:20.443] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[13Jan2026 00:18:20.444] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[13Jan2026 00:18:20.456] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[13Jan2026 00:18:20.563] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/manitos123/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[13Jan2026 00:18:20.823] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[13Jan2026 00:18:21.615] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[13Jan2026 00:18:21.930] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/manitos123/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/manitos123/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/manitos123/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/manitos123/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[13Jan2026 00:18:22.069] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/manitos123/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/manitos123/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/manitos123/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/manitos123/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[13Jan2026 00:18:27.158] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.0.9, for MC 1.21.1 with MCP 20240808.132146
+[13Jan2026 00:18:27.158] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.0.9 Initialized
+[13Jan2026 00:18:27.165] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[13Jan2026 00:18:27.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jan2026 00:18:28.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 52.0.9 Target: 52.1.0
+[13Jan2026 00:18:28.912] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13Jan2026 00:18:29.609] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[13Jan2026 00:18:30.310] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[13Jan2026 00:18:30.522] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[13Jan2026 00:18:31.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[13Jan2026 00:18:31.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Jan2026 00:18:31.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Jan2026 00:18:31.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jan2026 00:18:31.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Jan2026 00:18:31.302] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Jan2026 00:18:31.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Jan2026 00:18:31.352] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Jan2026 00:18:31.352] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Jan2026 00:18:31.352] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Jan2026 00:18:31.375] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[13Jan2026 00:18:31.376] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[13Jan2026 00:18:31.377] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[13Jan2026 00:18:31.377] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[13Jan2026 00:18:31.378] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[13Jan2026 00:18:31.378] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[13Jan2026 00:18:31.378] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[13Jan2026 00:18:31.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Jan2026 00:18:38.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Jan2026 00:18:38.360] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[13Jan2026 00:18:38.871] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[13Jan2026 00:18:39.394] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[13Jan2026 00:18:39.836] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[13Jan2026 00:18:40.481] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[13Jan2026 00:18:40.883] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[13Jan2026 00:18:41.378] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[13Jan2026 00:18:41.836] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[13Jan2026 00:18:42.493] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[13Jan2026 00:18:42.918] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[13Jan2026 00:18:43.334] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[13Jan2026 00:18:43.833] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[13Jan2026 00:18:44.416] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6084 ms
+[13Jan2026 00:18:44.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.049s)! For help, type "help"
+[13Jan2026 00:18:44.433] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Jan2026 00:19:42.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cristian878288[/127.75.208.249:49197] logged in with entity id 34 at (-44.5, 64.0, 11.5)
+[13Jan2026 00:19:42.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cristian878288 joined the game
+[13Jan2026 00:20:44.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cristian878288> hola
+[13Jan2026 00:20:46.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cristian878288> carepingas
+[13Jan2026 00:25:07.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jan2026 00:25:07.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3<--[HERE]
+[13Jan2026 00:25:11.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jan2026 00:25:11.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give<--[HERE]
+[13Jan2026 00:25:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:op'
+[13Jan2026 00:25:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ian878288 op<--[HERE]
+[13Jan2026 00:25:31.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to cristian878288: ola
+[13Jan2026 00:26:52.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jan2026 00:26:52.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: t cristian878288 872 18 567<--[HERE]
+[13Jan2026 00:27:05.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[13Jan2026 00:28:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made cristian878288 a server operator
+[13Jan2026 00:28:10.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cristian878288: Set own game mode to Creative Mode]
+[13Jan2026 00:28:59.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cristian878288 has reached the goal [Sky's the Limit]
+[13Jan2026 00:30:42.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cristian878288 has made the advancement [Monster Hunter]
+[13Jan2026 00:30:56.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cdoc56[/127.38.188.243:39443] logged in with entity id 4297 at (-55.5, 66.0, 17.5)
+[13Jan2026 00:30:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdoc56 joined the game
+[13Jan2026 00:31:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cristian878288> pordios
+[13Jan2026 00:31:07.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cristian878288: Teleported cristian878288 to cdoc56]
+[13Jan2026 00:31:16.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cdoc56> ahora solo falta que todos los mods y todo
+[13Jan2026 00:31:16.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cristian878288> capaz y si era la ip
+[13Jan2026 00:31:26.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cdoc56> lo organices en las carpeta de el server
+[13Jan2026 00:31:26.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cristian878288> JAJAJJAJA
+[13Jan2026 00:31:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cdoc56> pero eso es sencillo
+[13Jan2026 00:31:36.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cristian878288> mañana me pongo en eso
+[13Jan2026 00:31:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cdoc56> ahora te doy el weebbook del dc
+[13Jan2026 00:31:46.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cdoc56> mañana jugamos bb
+[13Jan2026 00:31:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdoc56 was slain by cristian878288
+[13Jan2026 00:31:54.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cdoc56 lost connection: Disconnected
+[13Jan2026 00:31:54.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cdoc56 left the game
+[13Jan2026 00:31:56.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cristian878288 lost connection: Disconnected
+[13Jan2026 00:31:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cristian878288 left the game
+[13Jan2026 00:33:43.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Jan2026 00:33:43.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jan2026 00:33:43.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jan2026 00:33:43.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jan2026 00:33:43.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jan2026 00:33:43.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jan2026 00:33:43.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jan2026 00:33:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jan2026 00:33:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jan2026 00:33:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jan2026 00:33:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
